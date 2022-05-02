@@ -3,9 +3,8 @@
 **git 공부를 위한 repository 입니다** 🤗
 
 
-### What is **git** ?
-> 다음을 참고하세요 
-참고: [Git SCM](https://git-scm.com/)
+### What is git ?
+> 다음을 참고하세요 ➡️ [Git SCM](https://git-scm.com/)
 
 ### git 명령어 정리
 > git 명령어를 공부해봅시다!
@@ -20,7 +19,7 @@
 - `git commit`
 - `git push`
 - `git pull`
-
+--------------
 #### 추가 명령어
 - `git reset`
 - `git revert`
