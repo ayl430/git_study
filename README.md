@@ -1,6 +1,6 @@
 # git_study
 
-**git 공부를 위한 repository 입니다** 🤗
+**git 공부를 위한 repository 입니다** ⭐️
 
 
 ### What is git ?
